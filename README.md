@@ -142,6 +142,12 @@ Sheng, Zihao, Zilin Huang, Yansong Qu, Yue Leng, and Sikai Chen. Talk2Traffic: I
 
 Wei, Yuxi, et al. "Editable scene simulation for autonomous driving via collaborative llm-agents." *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*. 2024. [📝 Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wei_Editable_Scene_Simulation_for_Autonomous_Driving_via_Collaborative_LLM-Agents_CVPR_2024_paper.pdf) [💻 Github](https://github.com/yifanlu0227/ChatSim) [🔗 Website](https://yifanlu0227.github.io/ChatSim/)
 
+Rempe, Davis, et al. "Generating useful accident-prone driving scenarios via a learned traffic prior." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022. [📝 Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Rempe_Generating_Useful_Accident-Prone_Driving_Scenarios_via_a_Learned_Traffic_Prior_CVPR_2022_paper.pdf) [💻 Github](https://github.com/nv-tlabs/STRIVE) [🔗 Website](https://research.nvidia.com/labs/toronto-ai/STRIVE/)
+
+Xu, Chejian, et al. "Diffscene: Diffusion-based safety-critical scenario generation for autonomous vehicles." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 39. No. 8. 2025. [📝 Paper](https://openreview.net/forum?id=hclEbdHida)
+
+Charraut, Valentin, et al. "V-Max: Making RL practical for Autonomous Driving." arXiv preprint arXiv:2503.08388 (2025). [📝 Paper](https://arxiv.org/pdf/2503.08388?) [💻 Github](https://github.com/valeoai/v-max) 
+
 ### Sim2real
 
 Li, Dianzhao, and Ostap Okhrin. "A platform-agnostic deep reinforcement learning framework for effective sim2real transfer towards autonomous driving." *Communications Engineering* 3.1 (2024): 147. [📝 Paper](https://www.nature.com/articles/s44172-024-00292-3.pdf) [💻 Github](https://github.com/DailyL/Sim2Real_autonomous_vehicle) [🔗 Website](https://dailyl.github.io/sim2realVehicle.github.io/)
