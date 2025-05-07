@@ -164,9 +164,16 @@ Raffin, Antonin, et al. "Stable-baselines3: Reliable reinforcement learning impl
 
 Seno, Takuma, and Michita Imai. "d3rlpy: An offline deep reinforcement learning library." *Journal of Machine Learning Research* 23.315 (2022): 1-20. [📝 Paper](https://www.jmlr.org/papers/volume23/22-0017/22-0017.pdf) [💻 Github](https://github.com/takuseno/d3rlpy) [📚 Document](https://d3rlpy.readthedocs.io/en/v2.8.1/) 
 
+Kumar, Aviral, et al. "Conservative q-learning for offline reinforcement learning." Advances in neural information processing systems 33 (2020): 1179-1191. [📝 Paper](https://proceedings.neurips.cc/paper/2020/file/0d2b2061826a5df3221116a5085a6052-Paper.pdf) [💻 Github](https://github.com/aviralkumar2907/CQL) 
+
+Kostrikov, Ilya, Ashvin Nair, and Sergey Levine. "Offline reinforcement learning with implicit q-learning." arXiv preprint arXiv:2110.06169 (2021). [📝 Paper](https://arxiv.org/pdf/2110.06169) [💻 Github](https://github.com/ikostrikov/implicit_q_learning) 
+
 ### Offline-to-online RL
 
 Zheng, Qinqing, Amy Zhang, and Aditya Grover. "Online decision transformer." *international conference on machine learning*. PMLR, 2022. [📝 Paper](https://proceedings.mlr.press/v162/zheng22c/zheng22c.pdf) [💻 Github](https://github.com/facebookresearch/online-dt)
 
 Zhang, Haichao, We Xu, and Haonan Yu. "Policy expansion for bridging offline-to-online reinforcement learning." *arXiv preprint arXiv:2302.00935* (2023). [📝 Paper](https://arxiv.org/pdf/2302.00935) [💻 Github](https://github.com/Haichao-Zhang/PEX)
+
+Ball, Philip J., et al. "Efficient online reinforcement learning with offline data." International Conference on Machine Learning. PMLR, 2023. [📝 Paper](https://proceedings.mlr.press/v202/ball23a/ball23a.pdf) [💻 Github](https://github.com/ikostrikov/rlpd)
+
 
