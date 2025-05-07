@@ -164,7 +164,17 @@ Cao, Chenyang, et al. "FOSP: Fine-tuning Offline Safe Policy through World Model
 
 ### Online RL
 
-Raffin, Antonin, et al. "Stable-baselines3: Reliable reinforcement learning implementations." *Journal of machine learning research* 22.268 (2021): 1-8. [📝 Paper](https://www.jmlr.org/papers/volume22/20-1364/20-1364.pdf) [💻 Github](https://github.com/DLR-RM/stable-baselines3) [📚 Document](https://stable-baselines3.readthedocs.io/en/master/guide/install.html) 
+**SB3** Raffin, Antonin, et al. "Stable-baselines3: Reliable reinforcement learning implementations." *Journal of machine learning research* 22.268 (2021): 1-8. [📝 Paper](https://www.jmlr.org/papers/volume22/20-1364/20-1364.pdf) [💻 Github](https://github.com/DLR-RM/stable-baselines3) [📚 Document](https://stable-baselines3.readthedocs.io/en/master/guide/install.html) 
+
+**DQN** Mnih, Volodymyr, et al. "Playing atari with deep reinforcement learning." arXiv preprint arXiv:1312.5602 (2013). [📝 Paper](https://arxiv.org/pdf/1312.05602)
+
+**DDPG** Lillicrap, Timothy P., et al. "Continuous control with deep reinforcement learning." arXiv preprint arXiv:1509.02971 (2015). [📝 Paper](https://arxiv.org/pdf/1509.02971)
+
+**TD3** Fujimoto, Scott, Herke Hoof, and David Meger. "Addressing function approximation error in actor-critic methods." International conference on machine learning. PMLR, 2018. [📝 Paper](https://proceedings.mlr.press/v80/fujimoto18a/fujimoto18a.pdf)
+
+**PPO** Schulman, John, et al. "Proximal policy optimization algorithms." arXiv preprint arXiv:1707.06347 (2017). [📝 Paper](https://arxiv.org/pdf/1707.06347)
+
+**SAC** Haarnoja, Tuomas, et al. "Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor." International conference on machine learning. Pmlr, 2018. [📝 Paper](https://proceedings.mlr.press/v80/haarnoja18b/haarnoja18b.pdf)
 
 ### Offline RL
 
