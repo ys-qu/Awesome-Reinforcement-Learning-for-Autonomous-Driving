@@ -4,7 +4,7 @@ A curated list of awesome Reinforcement Learning (RL)-based Autonomous Driving (
 
 ## Contributing
 
-Please feel free to send me (qu120@purdue.edu) requests to add links or new categories.
+Please feel free to send me requests to add links or new categories.
 
 ## Table of Contents
 
@@ -25,11 +25,13 @@ Please feel free to send me (qu120@purdue.edu) requests to add links or new cate
 
 ### Courses for Beginners
 **Chinese**
+
 [Shusen Wang](https://www.youtube.com/watch?v=vmkRMvhCW5c&list=PLvOO0btloRnsiqM72G4Uid0UWljikENlU)
 
 [Hung-yi Lee](https://www.youtube.com/watch?v=z95ZYgPgXOY&list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_&index=1)
 
 **English**
+
 [Deep RL Berkley CS 285](https://www.youtube.com/watch?v=SupFHGbytvA&list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps)
 
 [RL Stanford CS234](https://www.youtube.com/watch?v=WsvFL-LjA6U&list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX)
