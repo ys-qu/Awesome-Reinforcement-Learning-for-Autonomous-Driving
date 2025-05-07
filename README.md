@@ -209,6 +209,10 @@ Kostrikov, Ilya, Ashvin Nair, and Sergey Levine. "Offline reinforcement learning
 
 Zheng, Qinqing, Amy Zhang, and Aditya Grover. "Online decision transformer." *international conference on machine learning*. PMLR, 2022. [📝 Paper](https://proceedings.mlr.press/v162/zheng22c/zheng22c.pdf) [💻 Github](https://github.com/facebookresearch/online-dt)
 
+Ma, Xiao, and Wu-Jun Li. "Weighting online decision transformer with episodic memory for offline-to-online reinforcement learning." 2024 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2024. [📝 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10610701&casa_token=ICfCz32IwYcAAAAA:SSPsLyr_5Oh_a0JmOeQJ5MbA_yOkTOO8u-9EXp-ht-FJvpD4D_LR0IxLAFCGQ3JXh772E2z2tM8&tag=1)
+
+Yan, Kai, Alex Schwing, and Yu-Xiong Wang. "Reinforcement Learning Gradients as Vitamin for Online Finetuning Decision Transformers." Advances in Neural Information Processing Systems 37 (2024): 38590-38628. [📝 Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/43f5f6c5cb333115914c8448b8506411-Paper-Conference.pdf) [💻 Github](https://github.com/KaiYan289/RL_as_Vitamin_for_Online_Decision_Transformers)
+
 Zhang, Haichao, We Xu, and Haonan Yu. "Policy expansion for bridging offline-to-online reinforcement learning." *arXiv preprint arXiv:2302.00935* (2023). [📝 Paper](https://arxiv.org/pdf/2302.00935) [💻 Github](https://github.com/Haichao-Zhang/PEX)
 
 Ball, Philip J., et al. "Efficient online reinforcement learning with offline data." International Conference on Machine Learning. PMLR, 2023. [📝 Paper](https://proceedings.mlr.press/v202/ball23a/ball23a.pdf) [💻 Github](https://github.com/ikostrikov/rlpd)
