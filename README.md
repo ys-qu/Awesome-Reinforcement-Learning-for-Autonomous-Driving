@@ -148,6 +148,14 @@ Xu, Chejian, et al. "Diffscene: Diffusion-based safety-critical scenario generat
 
 Charraut, Valentin, et al. "V-Max: Making RL practical for Autonomous Driving." arXiv preprint arXiv:2503.08388 (2025). [📝 Paper](https://arxiv.org/pdf/2503.08388?) [💻 Github](https://github.com/valeoai/v-max) 
 
+Pronovost, Ethan, et al. "Scenario diffusion: Controllable driving scenario generation with diffusion." Advances in Neural Information Processing Systems 36 (2023): 68873-68894. [📝 Paper](https://arxiv.org/pdf/2311.02738) 
+
+Charraut, Valentin, et al. "V-Max: Making RL practical for Autonomous Driving." arXiv preprint arXiv:2503.08388 (2025). [📝 Paper](https://arxiv.org/pdf/2503.08388?) [💻 Github](https://github.com/valeoai/v-max) 
+
+Zhou, Yunsong, et al. "Simgen: Simulator-conditioned driving scene generation." Advances in Neural Information Processing Systems 37 (2024): 48838-48874. [📝 Paper](https://arxiv.org/pdf/2406.09386) [💻 Github](https://github.com/metadriverse/SimGen) [🔗 Website](https://metadriverse.github.io/simgen/)
+
+Li, Xinqing, et al. "SimWorld: A Unified Benchmark for Simulator-Conditioned Scene Generation via World Model." arXiv preprint arXiv:2503.13952 (2025). [📝 Paper](https://arxiv.org/pdf/2503.13952?) [💻 Github](https://github.com/Li-Zn-H/SimWorld)
+
 ### Sim2real
 
 Li, Dianzhao, and Ostap Okhrin. "A platform-agnostic deep reinforcement learning framework for effective sim2real transfer towards autonomous driving." *Communications Engineering* 3.1 (2024): 147. [📝 Paper](https://www.nature.com/articles/s44172-024-00292-3.pdf) [💻 Github](https://github.com/DailyL/Sim2Real_autonomous_vehicle) [🔗 Website](https://dailyl.github.io/sim2realVehicle.github.io/)
