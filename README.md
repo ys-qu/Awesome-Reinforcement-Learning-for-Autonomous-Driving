@@ -8,17 +8,17 @@ Please feel free to send me (qu120@purdue.edu) requests to add links or new cate
 
 ## Table of Contents
 
-- [Simulators](###simulators)
-- [Datasets](###datasets)
-- [RL-based AD with VLMs](###rl-based-ad-with-vlms)
-- [RL-based AD with WMs](###rl-based-ad-with-wms)
-- [Human-robot Interaction](###human-robot-interaction)
-- [Scenario Simulation](###scenario-simulation)
-- [Sim2real](###sim2real)
-- [Safe RL](###safe-rl)
-- [Online RL](###online-rl)
-- [Offline RL](###offline-rl)
-- [Offline-to-online RL](###offline-to-online-rl)
+- [Simulators](#simulators)
+- [Datasets](#datasets)
+- [RL-based AD with VLMs](#rl-based-ad-with-vlms)
+- [RL-based AD with WMs](#rl-based-ad-with-wms)
+- [Human-robot Interaction](#human-robot-interaction)
+- [Scenario Simulation](#scenario-simulation)
+- [Sim2real](#sim2real)
+- [Safe RL](#safe-rl)
+- [Online RL](#online-rl)
+- [Offline RL](#offline-rl)
+- [Offline-to-online RL](#offline-to-online-rl)
 
 ## Contents
 
