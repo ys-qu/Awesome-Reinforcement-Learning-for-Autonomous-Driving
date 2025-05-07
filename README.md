@@ -8,6 +8,7 @@ Please feel free to send me (qu120@purdue.edu) requests to add links or new cate
 
 ## Table of Contents
 
+- [Courses for Beginners](#courses-for-beginners)
 - [Simulators](#simulators)
 - [Datasets](#datasets)
 - [RL-based AD with VLMs](#rl-based-ad-with-vlms)
@@ -21,6 +22,17 @@ Please feel free to send me (qu120@purdue.edu) requests to add links or new cate
 - [Offline-to-online RL](#offline-to-online-rl)
 
 ## Contents
+
+### Courses for Beginners
+**Chinese**
+[Shusen Wang](https://www.youtube.com/watch?v=vmkRMvhCW5c&list=PLvOO0btloRnsiqM72G4Uid0UWljikENlU)
+
+[Hung-yi Lee](https://www.youtube.com/watch?v=z95ZYgPgXOY&list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_&index=1)
+
+**English**
+[Deep RL Berkley CS 285](https://www.youtube.com/watch?v=SupFHGbytvA&list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps)
+
+[RL Stanford CS234](https://www.youtube.com/watch?v=WsvFL-LjA6U&list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX)
 
 ### Simulators
 
