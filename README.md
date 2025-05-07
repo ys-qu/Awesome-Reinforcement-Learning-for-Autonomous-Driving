@@ -97,6 +97,7 @@ Sheng, Zihao, et al. "CurricuVLM: Towards Safe Autonomous Driving via Personaliz
 Doroudian, Erfan, and Hamid Taghavifar. "CLIP-RLDrive: Human-Aligned Autonomous Driving via CLIP-Based Reward Shaping in Reinforcement Learning." arXiv preprint arXiv:2412.16201 (2024). [📝 Paper](https://arxiv.org/pdf/2412.16201) 
 
 ### RL-based AD with WMs
+Hafner, Danijar, et al. "Mastering diverse domains through world models." arXiv preprint arXiv:2301.04104 (2023). [📝 Paper](https://arxiv.org/pdf/2301.04104) [💻 Github](https://github.com/danijar/dreamerv3) [🔗 Website](https://danijar.com/project/dreamerv3/) 
 
 Gao, Dechen, et al. "Cardreamer: Open-source learning platform for world model based autonomous driving." *IEEE Internet of Things Journal* (2024). [📝 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10714437&casa_token=Gd6U5OB6lHsAAAAA:-N7Puc7B4h5sgE5JicJAh7RLwi-kyJVOa-WMtC5HTJNQxpM_Zt0RVRjuFz_rZ3FbKcCuPzV69Dw) [💻 Github](https://github.com/ucd-dare/CarDreamer) [📚 Document](https://car-dreamer.readthedocs.io/en/latest/) 
 
