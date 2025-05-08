@@ -187,6 +187,8 @@ Huang, Weidong, et al. "Safedreamer: Safe reinforcement learning with world mode
 
 Cao, Chenyang, et al. "FOSP: Fine-tuning Offline Safe Policy through World Models." *arXiv preprint arXiv:2407.04942* (2024). [📝 Paper](https://arxiv.org/pdf/2407.04942) [🔗 Website](https://sunlighted.github.io/fosp_web/)
 
+Ji, Jiaming, et al. "OmniSafe: An infrastructure for accelerating safe reinforcement learning research." *Journal of Machine Learning Research* (2024). [📝 Paper](https://www.jmlr.org/papers/v25/23-0681.html)  [💻 Github](https://github.com/PKU-Alignment/omnisafe) [📚 Document](https://omnisafe.readthedocs.io/en/latest/)
+
 ### Online RL
 
 **SB3** Raffin, Antonin, et al. "Stable-baselines3: Reliable reinforcement learning implementations." *Journal of machine learning research* 22.268 (2021): 1-8. [📝 Paper](https://www.jmlr.org/papers/volume22/20-1364/20-1364.pdf) [💻 Github](https://github.com/DLR-RM/stable-baselines3) [📚 Document](https://stable-baselines3.readthedocs.io/en/master/guide/install.html) 
