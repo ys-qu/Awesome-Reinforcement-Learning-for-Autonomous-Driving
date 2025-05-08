@@ -30,6 +30,8 @@ Please feel free to send me requests to add links or new categories.
 
 [Hung-yi Lee](https://www.youtube.com/watch?v=z95ZYgPgXOY&list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_&index=1)
 
+[Hands-on-RL](https://hrl.boyuai.com/chapter/intro/)
+
 **English**
 
 [Deep RL Berkley CS 285](https://www.youtube.com/watch?v=SupFHGbytvA&list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps)
