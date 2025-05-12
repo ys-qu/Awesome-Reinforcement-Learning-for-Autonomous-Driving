@@ -1,6 +1,6 @@
 # Awesome Reinforcement Learning for Autonomous Driving
 
-A curated list of awesome Reinforcement Learning (RL)-based Autonomous Driving (AD) resources, with a specific focus on highly advanced technologies, including Vision-language models (VLMs), World Models (WMs) and so on.
+A curated list of awesome Reinforcement Learning (RL)-based Autonomous Driving (AD) resources, with a primary focus on advanced technologies such as Vision-Language Models (VLMs) and World Models (WMs). In addition to these, we also include selected works from related areas such as vision.
 
 ## Contributing
 
