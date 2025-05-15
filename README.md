@@ -100,6 +100,8 @@ Sheng, Zihao, et al. "CurricuVLM: Towards Safe Autonomous Driving via Personaliz
 
 Doroudian, Erfan, and Hamid Taghavifar. "CLIP-RLDrive: Human-Aligned Autonomous Driving via CLIP-Based Reward Shaping in Reinforcement Learning." arXiv preprint arXiv:2412.16201 (2024). [📝 Paper](https://arxiv.org/pdf/2412.16201) 
 
+Jiang, Bo, et al. "Alphadrive: Unleashing the power of vlms in autonomous driving via reinforcement learning and reasoning." arXiv preprint arXiv:2503.07608 (2025).  [📝 Paper](https://arxiv.org/abs/2503.07608) [💻 Github](https://github.com/hustvl/AlphaDrive).
+
 ### RL-based AD with WMs
 Hafner, Danijar, et al. "Mastering diverse domains through world models." arXiv preprint arXiv:2301.04104 (2023). [📝 Paper](https://arxiv.org/pdf/2301.04104) [💻 Github](https://github.com/danijar/dreamerv3) [🔗 Website](https://danijar.com/project/dreamerv3/) 
 
