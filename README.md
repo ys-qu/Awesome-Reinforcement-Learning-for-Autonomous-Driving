@@ -20,6 +20,8 @@ Please feel free to send me requests to add links or new categories.
 - [Online RL](#online-rl)
 - [Offline RL](#offline-rl)
 - [Offline-to-online RL](#offline-to-online-rl)
+- [Imitation Learning](#imitation-learning)
+- [RL for LLM Agents](#rl-for-llm-agents)
 
 ## Contents
 
