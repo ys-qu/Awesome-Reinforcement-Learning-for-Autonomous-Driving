@@ -225,4 +225,15 @@ Zhang, Haichao, We Xu, and Haonan Yu. "Policy expansion for bridging offline-to-
 
 Ball, Philip J., et al. "Efficient online reinforcement learning with offline data." International Conference on Machine Learning. PMLR, 2023. [📝 Paper](https://proceedings.mlr.press/v202/ball23a/ball23a.pdf) [💻 Github](https://github.com/ikostrikov/rlpd)
 
+### Imitation Learning
+
+Zhang, Zhejun, et al. "End-to-end urban driving by imitating a reinforcement learning coach." Proceedings of the IEEE/CVF international conference on computer vision. 2021. [📝 Paper]([https://arxiv.org/pdf/2302.00935](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_End-to-End_Urban_Driving_by_Imitating_a_Reinforcement_Learning_Coach_ICCV_2021_paper.pdf)) [💻 Github](https://github.com/zhejz/carla-roach/tree/main)
+
+### RL for LLM Agents
+
+Chen, Kevin, et al. "Reinforcement Learning for Long-Horizon Interactive LLM Agents." arXiv preprint arXiv:2502.01600 (2025). [📝 Paper](https://arxiv.org/pdf/2502.01600?)
+
+
+
+
 
