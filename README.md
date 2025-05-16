@@ -9,6 +9,7 @@ Please feel free to send me requests to add links or new categories.
 ## Table of Contents
 
 - [Courses for Beginners](#courses-for-beginners)
+- [Posts](#posts)
 - [Simulators](#simulators)
 - [Datasets](#datasets)
 - [RL-based AD with VLMs](#rl-based-ad-with-vlms)
@@ -39,6 +40,9 @@ Please feel free to send me requests to add links or new categories.
 [Deep RL Berkley CS 285](https://www.youtube.com/watch?v=SupFHGbytvA&list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps)
 
 [RL Stanford CS234](https://www.youtube.com/watch?v=WsvFL-LjA6U&list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX)
+
+### Posts
+[PPO v.s. GRPO](https://epichka.com/blog/2025/grpo/?utm_source=chatgpt.com)
 
 ### Simulators
 
