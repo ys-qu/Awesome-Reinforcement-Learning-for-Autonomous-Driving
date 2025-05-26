@@ -237,6 +237,8 @@ Zhang, Zhejun, et al. "End-to-end urban driving by imitating a reinforcement lea
 
 ### RL for LLM Agents
 
+Zheng Y, Zhang R, Zhang J, et al. Llamafactory: Unified efficient fine-tuning of 100+ language models[J]. arXiv preprint arXiv:2403.13372, 2024. [📝 Paper](https://arxiv.org/pdf/2403.13372) [💻 Github](https://github.com/hiyouga/LLaMA-Factory) [📚 Document](https://llamafactory.readthedocs.io/en/latest/) 
+
 Chen, Kevin, et al. "Reinforcement Learning for Long-Horizon Interactive LLM Agents." arXiv preprint arXiv:2502.01600 (2025). [📝 Paper](https://arxiv.org/pdf/2502.01600?)
 
 
