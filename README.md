@@ -241,6 +241,8 @@ Zheng Y, Zhang R, Zhang J, et al. Llamafactory: Unified efficient fine-tuning of
 
 Chen, Kevin, et al. "Reinforcement Learning for Long-Horizon Interactive LLM Agents." arXiv preprint arXiv:2502.01600 (2025). [📝 Paper](https://arxiv.org/pdf/2502.01600?)
 
+Chen W, Mees O, Kumar A, et al. Vision-language models provide promptable representations for reinforcement learning[J]. arXiv preprint arXiv:2402.02651, 2024. [📝 Paper](https://arxiv.org/pdf/2402.02651) [💻 Github](https://github.com/pr2l/pr2l.github.io/blob/master/static/notebooks/PR2LExample.ipynb)
+
 
 
 
