@@ -22,7 +22,7 @@ Please feel free to send me requests to add links or new categories.
 - [Offline RL](#offline-rl)
 - [Offline-to-online RL](#offline-to-online-rl)
 - [Imitation Learning](#imitation-learning)
-- [RL for LLM Agents](#rl-for-llm-agents)
+- [LLM-enhanced RL](#llm-enhaced-rl)
 
 ## Contents
 
@@ -235,9 +235,11 @@ Ball, Philip J., et al. "Efficient online reinforcement learning with offline da
 
 Zhang, Zhejun, et al. "End-to-end urban driving by imitating a reinforcement learning coach." Proceedings of the IEEE/CVF international conference on computer vision. 2021. [📝 Paper]([https://arxiv.org/pdf/2302.00935](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_End-to-End_Urban_Driving_by_Imitating_a_Reinforcement_Learning_Coach_ICCV_2021_paper.pdf)) [💻 Github](https://github.com/zhejz/carla-roach/tree/main)
 
-### RL for LLM Agents
+### LLM-enhanced RL
 
 Zheng Y, Zhang R, Zhang J, et al. Llamafactory: Unified efficient fine-tuning of 100+ language models[J]. arXiv preprint arXiv:2403.13372, 2024. [📝 Paper](https://arxiv.org/pdf/2403.13372) [💻 Github](https://github.com/hiyouga/LLaMA-Factory) [📚 Document](https://llamafactory.readthedocs.io/en/latest/) 
+
+Cao, Yuji, et al. "Survey on large language model-enhanced reinforcement learning: Concept, taxonomy, and methods." IEEE Transactions on Neural Networks and Learning Systems (2024).[📝 Paper](https://ieeexplore.ieee.org/abstract/document/10766898?casa_token=ug6yA1rjafoAAAAA:t0oPMydW2vnM5haVMn5iRpnpn3zj2pQTw4DgLvDrqKQoDQBUexmmbuutjmiU2y8sbBTvUspzkJA&signout=success)
 
 Chen, Kevin, et al. "Reinforcement Learning for Long-Horizon Interactive LLM Agents." arXiv preprint arXiv:2502.01600 (2025). [📝 Paper](https://arxiv.org/pdf/2502.01600?)
 
